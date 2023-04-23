@@ -3,5 +3,5 @@
 # Description
 ### In the programs folder
 1. Run the "slidingdot.py" with the parameter GENERATE=False to generate the directions of movement
-2. Open "spikes.ipynb" and run the cells
+2. Open "spikes.ipynb" and run the two cells - 1 to generate the spikes trains and another to run the data through the network
 3. Rerun the "slidingdot.py" with the parameter GENERATE=True to use the output made by the network
